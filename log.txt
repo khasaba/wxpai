@@ -1,0 +1,42 @@
+ff13858830301385883033138588303413858830351385883036138588303613858830371385883038138588303913858830401385883087
+
+1385883089
+
+1385883090
+
+1385883091
+
+1385883092
+
+
+Cb Object
+(
+    [wxid] => gh_5e05b0131fd8
+    [db] => Db Object
+        (
+            [time:Db:private] => 1385913636.99
+            [link_id] => Resource id #11
+        )
+
+    [msg] => 
+    [isOrder] => 
+    [isNewUser] => 0
+    [isMsgDie] => 1
+    [error] => 没有Post信息
+    [MsgId] => 
+    [openid] => 
+    [MsgType] => 
+    [Content] => 
+    [MediaId] => 
+    [lastTopicId] => 0
+    [topic] => 
+    [user] => 
+)
+
+get:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx7119c26000106b66&secret=4e4a2561bb0bbd9cc8c4a7fc8a72c4ad&access_token=
+get:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx7119c26000106b66&secret=4e4a2561bb0bbd9cc8c4a7fc8a72c4ad&access_token=
+get:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx7119c26000106b66&secret=4e4a2561bb0bbd9cc8c4a7fc8a72c4ad&access_token=
+get:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx7119c26000106b66&secret=4e4a2561bb0bbd9cc8c4a7fc8a72c4ad&access_token=
+get:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx7119c26000106b66&secret=4e4a2561bb0bbd9cc8c4a7fc8a72c4ad&access_token=
+get:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx7119c26000106b66&secret=4e4a2561bb0bbd9cc8c4a7fc8a72c4ad&access_token=
+get:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx7119c26000106b66&secret=4e4a2561bb0bbd9cc8c4a7fc8a72c4ad&access_token=

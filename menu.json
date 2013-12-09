@@ -1,0 +1,35 @@
+{
+    "button": [
+        {
+            "type": "click", 
+            "name": "我参与的", 
+            "key": "lookup"
+        }, 
+        {
+            "type": "click", 
+            "name": "我创建的", 
+            "key": "newtopic"
+        },         
+        {
+            "name": "其它的", 
+            "sub_button": [
+                {
+                    "type": "view", 
+                    "name": "吐槽", 
+                    "url": "http://wxpai.5xingji.cn/feedback.php"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "干啥的？", 
+                    "url": "http://wxpai.5xingji.cn/about.php"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "实时大屏幕", 
+                    "url": "http://wxpai.5xingji.cn/dapingmu/intro.php"
+                }
+
+            ]
+        }
+    ]
+}
